@@ -19,4 +19,7 @@ This collection of scripts and resources can be used to download data from using
     
 
 ## Scripts in this repository 
-* 
+* [monthlyunemp](https://github.com/hbs-brds/bls_stats/tree/main/monthly_unemp)
+     *Download monthly unemployment data
+     *Parameters: years, geography-level
+  
